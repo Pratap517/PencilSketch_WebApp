@@ -34,4 +34,4 @@ else:
         im_pil.save('final_image.jpeg')
         st.write('Download completed')
 
-st.write("Courtesy: 1littlecoder Youtube Channel - [Sketch Code](https://github.com/amrrs/youtube-r-snippets/blob/master/Create_a_Pencil_Sketch_Portrait_with_Python_OpenCV.ipynb)")
+st.write("[Sketch Code](https://github.com/Pratap517/PencilSketch_WebApp/blob/main/webapp.py)")
